@@ -16,9 +16,16 @@ To get started with this project, follow these steps:
 *  Install Dependencies:
       * ```pip install -r requirements.txt```
       * ```playwright install chromium```
+ 
+* Update environment variables ```.env```
+     ```GROQ_API_KEY=<YOUR_GROQ_API_KEY>``` : https://console.groq.com/keys
+     ```GOOGLE_API_KEY=<YOUR_GOOGLE_API_KEY>``` : https://aistudio.google.com/app/apikey
   
 *  Run: ```python rag.py```
 
 ## Dependencies
 Arch Linux users might face issues with python greenlet, to resolve the issue run command   
 ```sudo pacman -S python-greenlet```
+
+### Note
+I am using google embedding-001 model for the embeddings.
