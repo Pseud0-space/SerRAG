@@ -17,7 +17,7 @@ To get started with this project, follow these steps:
       * ```pip install -r requirements.txt```
       * ```playwright install chromium```
  
-* Update environment variables ```.env```
+* Update environment variables ```.env```    
      ```GROQ_API_KEY=<YOUR_GROQ_API_KEY>``` : https://console.groq.com/keys   
      ```GOOGLE_API_KEY=<YOUR_GOOGLE_API_KEY>``` : https://aistudio.google.com/app/apikey
   
