@@ -1,0 +1,13 @@
+greenlet==2.0.2
+playwright==1.38.0
+playwright-stealth==1.0.6
+pyee==9.0.4
+typing_extensions==4.8.0
+playwright_stealth
+langchain
+langchain_community
+langchain-groq
+langchain-google-genai
+python-dotenv
+groq
+ollama
